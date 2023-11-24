@@ -29,7 +29,7 @@ This project is an image classification application built with Flask. It allows 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/your_project_name.git
+    git clone https://github.com/Nitish0710/Image-classification-using-Flask.git
     cd your_project_name
     ```
 
