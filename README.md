@@ -62,11 +62,11 @@ This project is an image classification application built with Flask. It allows 
 2. Open your browser and go to `http://localhost:5000` to access the application.
 
 ## Folder Structure
-Flask/<br>
-|--images/<br>
-|-- templates/<br>
-|-- app.py<br>
-|-- model/<br>
-| |--trained models .pkl files <br>
-|-- README.md<br>
-|-- requirements.txt<br>
+Flask/
+|--images/
+|-- templates/
+|-- app.py
+|-- model/
+| |--trained models .pkl files 
+|-- README.md
+|-- requirements.txt
